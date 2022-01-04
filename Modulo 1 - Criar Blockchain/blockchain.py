@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  4 14:43:45 2022
-
-@author: pjonatan
-"""
-
 import datetime
 import hashlib 
 import json
